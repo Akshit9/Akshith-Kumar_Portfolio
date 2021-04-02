@@ -19,7 +19,7 @@ DataScience Portfolio
 
 *It was a trained on different ML algorithms, but LinearRegression was made the best choice to get accuracy of 75% which predicted the best results.
 
-![](
+![](https://github.com/Akshit9/Akshith_Portfolio/blob/main/images/download%20(2).png)
 
 
 # [Project-3 : Birds-Recognization](https://github.com/Akshit9/Birds-Recognization)
