@@ -10,7 +10,7 @@ DataScience Portfolio
 
 *It is also visualized in lot of aspects to best outcomes and well trained model.
 
-![](https://github.com/Akshit9/Akshith_Portfolio/blob/main/images/download%20(1).png)
+![](/images/download%20(1).png)
 
 
 # [Project-2 : Real_Estate_Price_Prediction](https://github.com/Akshit9/LivingQuaters_price_predictions)
@@ -19,7 +19,7 @@ DataScience Portfolio
 
 *It was a trained on different ML algorithms, but LinearRegression was made the best choice to get accuracy of 75% which predicted the best results.
 
-![](https://github.com/Akshit9/Akshith_Portfolio/blob/main/images/download%20(2).png)
+![](/images/download%20(2).png)
 
 
 # [Project-3 : Birds-Recognization](https://github.com/Akshit9/Birds-Recognization)
